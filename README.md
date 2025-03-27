@@ -14,17 +14,6 @@ This repository contains an R package for logistic regression using **Newton-Rap
 
 ---
 
-## 🛠️ Installation
-Clone this repository to your local machine and install the package:
-
-```bash
-# Clone the repository
-git clone https://github.com/yulN0X/custom_logistic_regression
-
-# Navigate to the directory
-cd custom_logistic_regression
-```
-
 ## 🚀 Usage
 ```R
 # Load the package
@@ -42,6 +31,7 @@ print(model$method)
 print(model$beta)
 print(model$fit)
 ```
+---
 ## 📊 Visualization
 ```R
 plot(X, y, main = "Logistic Regression Fit", col = "blue")
