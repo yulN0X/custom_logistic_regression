@@ -1,4 +1,4 @@
-# Logistic Regression Package in R
+# Logistic Regression in R
 
 ![License](https://img.shields.io/badge/license-MIT-blue) 
 ![Language](https://img.shields.io/badge/R-4.0%2B-blue)
